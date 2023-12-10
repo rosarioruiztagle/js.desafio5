@@ -1,0 +1,10 @@
+main{
+    border: solid black;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+ margin-left: 35%;
+}
+#resumen{
+    text-align: left;
+}
